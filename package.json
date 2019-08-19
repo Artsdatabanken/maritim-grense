@@ -1,0 +1,15 @@
+{
+  "name": "maritim-grense",
+  "version": "1.0.0",
+  "description": "* https://trac.osgeo.org/gdal/wiki/SOSI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lastejobb": "^1.23.2"
+  }
+}
