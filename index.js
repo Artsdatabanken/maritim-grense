@@ -23,7 +23,7 @@ const autor2TilKode = {
 };
 
 const r = {};
-const geo = io.readJson("NorgesMaritimeGrenser.geojson");
+const geo = io.readJson("data/NorgesMaritimeGrenser.geojson");
 geo.features.forEach(f => {
   const props = f.properties;
   const otn = props.objekttypenavn;
@@ -53,7 +53,7 @@ function accu(t, key, value) {
 
 function getKode(l1, l2) {
   const k = autorTilKode[l1];
-  const p1 = "AO-MG-" + k;
+  const p1 = "AO-" + k;
   if (!l2) return p1;
   const l = getKode2(l1, l2); //autor2TilKode[[l2]];
   if (!l) return p1;
