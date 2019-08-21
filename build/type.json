@@ -14,8 +14,11 @@
         "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
       },
       "tittel": {
-        "nb": "Territorialfarvann"
+        "nb": "Territorialfarvann",
+        "en": "Territorial Waters"
       },
+      "nivå": "territorialfarvann",
+      "ingress": "En kyststats suverenitet strekker seg fra landterritoriet og de indre farvann, ut til 12 nautiske mil utenfor og parallelt med grunnlinjen. Skip fra alle stater har rett til uskyldig gjennomfart gjennom territorialfarvannet. Det etableres og nykartlegges nå leder for all skipsfart langs kysten, og disse legges lengre ut i åpent farvann enn tidligere pga. faren for ulykker og forurensning.",
       "farge": "hsl(200,80%,85%)"
     },
     {
@@ -23,6 +26,7 @@
       "tittel": {
         "nb": "Svalbard"
       },
+      "nivå": "territorialfarvann",
       "ingress": "Territorialfarvann ved Svalbard"
     },
     {
@@ -33,6 +37,7 @@
       "tittel": {
         "nb": "Spitsbergen, Nordaustlandet og Edgeøya"
       },
+      "nivå": "territorialfarvann",
       "ingress": "Territorialfarvann ved Spitsbergen, Nordaustlandet og Edgeøya, Svalbard"
     },
     {
@@ -43,6 +48,7 @@
       "tittel": {
         "nb": "Bjørnøya"
       },
+      "nivå": "territorialfarvann",
       "ingress": "Territorialfarvann ved Bjørnøya, Svalbard"
     },
     {
@@ -52,8 +58,11 @@
         "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
       },
       "tittel": {
-        "nb": "Sjøterritorium og territorialfarvann"
+        "nb": "Sjøterritorium og territorialfarvann",
+        "en": "Territorial Sea"
       },
+      "nivå": "sjøterritorium",
+      "ingress": "Innenfor sjøterritoriet har fremmede fartøyer rett til uskyldig gjennomfart.",
       "farge": "hsl(220,80%,85%)"
     },
     {
@@ -61,6 +70,7 @@
       "tittel": {
         "nb": "Svalbard"
       },
+      "nivå": "sjøterritorium",
       "ingress": "Sjøterritorium ved Svalbard"
     },
     {
@@ -71,6 +81,7 @@
       "tittel": {
         "nb": "Hopen"
       },
+      "nivå": "sjøterritorium",
       "ingress": "Sjøterritorium ved Hopen, Svalbard"
     },
     {
@@ -81,6 +92,7 @@
       "tittel": {
         "nb": "Kong Karls Land"
       },
+      "nivå": "territorialfarvann",
       "ingress": "Territorialfarvann ved Kong Karls Land, Svalbard"
     },
     {
@@ -91,6 +103,7 @@
       "tittel": {
         "nb": "Kvitøya"
       },
+      "nivå": "sjøterritorium",
       "ingress": "Sjøterritorium ved Kvitøya, Svalbard"
     },
     {
@@ -101,6 +114,7 @@
       "tittel": {
         "nb": "Fastlands-Norge"
       },
+      "nivå": "territorialfarvann",
       "ingress": "Territorialfarvann ved Fastlands-Norge"
     },
     {
@@ -109,8 +123,10 @@
         "lovdata": "http://www.un.org/Depts/los/clcs_new/submissions_files/nor06/nor_rec_summ.pdf"
       },
       "tittel": {
-        "nb": "Kontinentalsokkel"
+        "nb": "Kontinentalsokkel",
+        "en": "Continental Shelf"
       },
+      "ingress": "Dekker den undersjøiske forlengelsen av landmassen ut til de store havdyp, og regnes fra territorialgrensen 12 nm ved Fastlands-Norge, Svalbard og Jan Mayen og ut til yttergrensen for sokkel eller avtalt avgrensningslinje mot annen stat.  Staten har jurisdiksjon til å utnytte ressursene i og på havbunnen.",
       "farge": "hsl(240,80%,85%)"
     },
     {
@@ -120,8 +136,10 @@
         "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
       },
       "tittel": {
-        "nb": "Indre farvann"
+        "nb": "Indre farvann",
+        "en": "Internal Waters"
       },
+      "nivå": "indre farvann",
       "farge": "hsl(210,80%,85%)"
     },
     {
@@ -132,6 +150,7 @@
       "tittel": {
         "nb": "Jan Mayen"
       },
+      "nivå": "indre farvann",
       "ingress": "Indre farvann ved Jan Mayen"
     },
     {
@@ -161,6 +180,7 @@
       "tittel": {
         "nb": "Svalbard"
       },
+      "nivå": "landareal med indre farvann",
       "ingress": "Svalbard med indre farvann"
     },
     {
@@ -168,6 +188,7 @@
       "tittel": {
         "nb": "Spitsbergen, Nordaustlandet og Edgeøya"
       },
+      "nivå": "landareal med indre farvann",
       "ingress": "Spitsbergen, Nordaustlandet og Edgeøya med indre farvann"
     },
     {
@@ -175,6 +196,7 @@
       "tittel": {
         "nb": "Hopen"
       },
+      "nivå": "landareal med indre farvann",
       "ingress": "Hopen med indre farvann"
     },
     {
@@ -182,6 +204,7 @@
       "tittel": {
         "nb": "Kong Karls Land"
       },
+      "nivå": "landareal med indre farvann",
       "ingress": "Kong Karls Land med indre farvann"
     },
     {
@@ -189,6 +212,7 @@
       "tittel": {
         "nb": "Nordaustlandet"
       },
+      "nivå": "landareal med indre farvann",
       "ingress": "Nordaustlandet, Svalbard"
     },
     {
@@ -196,7 +220,7 @@
       "tittel": {
         "nb": "Norsk økonomisk sone"
       },
-      "ingres": "Landområdet som grenser til Sverige, Finland og Russland samt kystnære øyer, holmer og skjær",
+      "ingress": "Landområdet som grenser til Sverige, Finland og Russland samt kystnære øyer, holmer og skjær",
       "farge": "hsl(120,80%,85%)"
     },
     {
@@ -212,6 +236,7 @@
       "tittel": {
         "nb": "Bjørnøya"
       },
+      "nivå": "territorialområde",
       "ingress": "Norges territorialområde ved Bjørnøya, Svalbard"
     },
     {
@@ -219,6 +244,7 @@
       "tittel": {
         "nb": "Svalbard"
       },
+      "nivå": "landområde",
       "ingress": "Landområde ved Svalbard"
     },
     {
@@ -226,6 +252,7 @@
       "tittel": {
         "nb": "Hopen, Svalbard"
       },
+      "nivå": "landområde",
       "ingress": "Landområde ved Hopen, Svalbard"
     },
     {
@@ -233,6 +260,7 @@
       "tittel": {
         "nb": "Kong Karls Land"
       },
+      "nivå": "landområde",
       "ingress": "Norges territorialområde ved Kong Karls Land, Svalbard"
     },
     {
@@ -240,6 +268,7 @@
       "tittel": {
         "nb": "Kvitøya"
       },
+      "nivå": "landområde",
       "ingress": "Landområde ved Kvitøya, Svalbard"
     },
     {
@@ -247,6 +276,7 @@
       "tittel": {
         "nb": "Edgeøya"
       },
+      "nivå": "landområde",
       "ingress": "Landområde ved Edgeøya, Svalbard"
     },
     {
@@ -254,27 +284,32 @@
       "tittel": {
         "nb": "Barentsøya"
       },
+      "nivå": "landområde",
       "ingress": "Landområde ved Barentsøya, Svalbard"
     },
     {
       "kode": "AO-TO-LIF-FL",
       "tittel": {
-        "nb": "Fastlands-Norge"
+        "nb": "Fastlands-Norge med indre farvann",
+        "en": "Norway Mainland with Internal Waters"
       },
       "farge": "hsl(150,20%,85%)",
-      "ingress": "Fastlands-Norge med indre farvann"
+      "nivå": "landområde med indre farvann",
+      "ingress": "Landområdet som grenser til Sverige, Finland og Russland med kystnære øyer, holmer og skjær, samt havområdet ut til grunnlinjen"
     },
     {
       "kode": "AO-TO-LIF-LA-JM",
       "tittel": {
         "nb": "Øy ved Jan Mayen"
-      }
+      },
+      "nivå": "landområde"
     },
     {
       "kode": "AO-TO-LIF-IF-SV",
       "tittel": {
         "nb": "Svalbard"
       },
+      "nivå": "indre farvann",
       "ingress": "Indre farvann ved Svalbard"
     },
     {
@@ -285,6 +320,7 @@
       "tittel": {
         "nb": "Kvitøya"
       },
+      "nivå": "indre farvann",
       "ingress": "Indre farvann ved Kvitøya, Svalbard"
     },
     {
@@ -295,6 +331,7 @@
       "tittel": {
         "nb": "Hopen"
       },
+      "nivå": "indre farvann",
       "ingress": "Indre farvann ved Hopen, Svalbard"
     },
     {
@@ -305,6 +342,7 @@
       "tittel": {
         "nb": "Spitsbergen, Nordaustlandet og Edgeøya"
       },
+      "nivå": "indre farvann",
       "ingress": "Indre farvann ved Spitsbergen, Nordaustlandet og Edgeøya, Svalbard"
     },
     {
@@ -315,6 +353,7 @@
       "tittel": {
         "nb": "Fastlands-Norge"
       },
+      "nivå": "sjøterritorium",
       "ingress": "Sjøterritorium ved Fastlands-Norge"
     },
     {
@@ -322,6 +361,7 @@
       "tittel": {
         "nb": "Svalbard"
       },
+      "nivå": "sjøterritorium",
       "ingress": "Sjøterritorium ved Svalbard"
     },
     {
@@ -332,6 +372,7 @@
       "tittel": {
         "nb": "Kong Karls Land"
       },
+      "nivå": "sjøterritorium",
       "ingress": "Sjøterritorium ved Kong Karls Land, Svalbard"
     },
     {
@@ -342,6 +383,7 @@
       "tittel": {
         "nb": "Jan Mayen"
       },
+      "nivå": "territorialfarvann",
       "ingress": "Territorialfarvann ved Jan Mayen"
     },
     {
@@ -349,6 +391,7 @@
       "tittel": {
         "nb": "Svalbard"
       },
+      "nivå": "territorialfarvann",
       "ingress": "Territorialfarvann ved Svalbard"
     },
     {
@@ -359,6 +402,7 @@
       "tittel": {
         "nb": "Hopen"
       },
+      "nivå": "territorialfarvann",
       "ingress": "Territorialfarvann ved Hopen, Svalbard"
     },
     {
@@ -366,6 +410,7 @@
       "tittel": {
         "nb": "Jan Mayen"
       },
+      "nivå": "landområde med indre farvann",
       "ingress": "Jan Mayen med indre farvann"
     },
     {
@@ -375,8 +420,11 @@
         "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
       },
       "tittel": {
-        "nb": "Tilstøtende sone"
+        "nb": "Tilstøtende sone",
+        "en": "Contiguous Zone"
       },
+      "nivå": "tilstøtende sone",
+      "ingress": "Området inngår i Norges økonomiske sone. I tillegg til de lover og forskrifter som gjelder i den økonomiske sonen, har kyststaten mulighet til utvidet kontroll innenfor dette området.",
       "farge": "hsl(60,80%,85%)"
     },
     {
@@ -387,6 +435,7 @@
       "tittel": {
         "nb": "Fastlands-Norge"
       },
+      "nivå": "tilstøtende sone",
       "ingress": "Tilstøtende sone ved Fastlands-Norge"
     },
     {
@@ -396,8 +445,11 @@
         "lovdata": "http://www.lovdata.no/all/hl-19761217-091.html"
       },
       "tittel": {
-        "nb": "Fiskevernsonen"
+        "nb": "Fiskevernsonen",
+        "en": "Fisheries Protection Zone"
       },
+      "nivå": "fiskevernsone",
+      "ingress": "Sone opprettet for å bevare de levende ressursene i havet og for å regulere fiske og fangst. Fiskevernsonen er ikke en full økonomisk sone, men er opprettet med hjemmel i den økonomiske soneloven.",
       "farge": "hsl(30,80%,85%)"
     },
     {
@@ -408,6 +460,7 @@
       "tittel": {
         "nb": "Svalbard"
       },
+      "nivå": "fiskevernsone",
       "ingress": "Fiskevernsonen ved Svalbard"
     },
     {
@@ -418,6 +471,7 @@
       "tittel": {
         "nb": "Kvitøya"
       },
+      "nivå": "sjøterritorium",
       "ingress": "Territorialfarvann ved Kvitøya, Svalbard"
     },
     {
@@ -428,6 +482,7 @@
       "tittel": {
         "nb": "Bjørnøya"
       },
+      "nivå": "sjøterritorium",
       "ingress": "Sjøterritorium ved Bjørnøya, Svalbard"
     },
     {
@@ -438,6 +493,7 @@
       "tittel": {
         "nb": "Spitsbergen, Nordaustlandet og Edgeøya"
       },
+      "nivå": "sjøterritorium",
       "ingress": "Sjøterritorium ved Spitsbergen, Nordaustlandet og Edgeøya, Svalbard"
     },
     {
@@ -448,6 +504,7 @@
       "tittel": {
         "nb": "Jan Mayen"
       },
+      "nivå": "sjøterritorium",
       "ingress": "Sjøterritorium ved Jan Mayen"
     },
     {
@@ -455,6 +512,7 @@
       "tittel": {
         "nb": "Svalbard"
       },
+      "nivå": "indre farvann",
       "ingress": "Indre farvann ved Svalbard"
     },
     {
@@ -465,6 +523,7 @@
       "tittel": {
         "nb": "Bjørnøya"
       },
+      "nivå": "indre farvann",
       "ingress": "Indre farvann ved Bjørnøya, Svalbard"
     },
     {
@@ -475,6 +534,7 @@
       "tittel": {
         "nb": "Kong Karls Land"
       },
+      "nivå": "indre farvann",
       "ingress": "Indre farvann ved Kong Karls Land, Svalbard"
     },
     {
@@ -494,8 +554,11 @@
         "lovdata": "http://www.lovdata.no/cgi-wift/ldles?doc=/sf/sf/sf-19800523-0004.html"
       },
       "tittel": {
-        "nb": "Fiskerisone"
+        "nb": "Fiskerisone",
+        "en": "Fisheries zone"
       },
+      "nivå": "fiskerisone",
+      "ingres": "Havområde avgrenset til fiskeriformål. Fiskerisonen er ikke en full økonomisk sone, men er opprettet med hjemmel i den økonomiske soneloven.",
       "farge": "hsl(330,80%,85%)",
       "ingress": "Sone som dekker havområdet fra territorialgrensen 12 nm og ut til 200 nm beregnet utenfor og parallelt med grunnlinjen ved Jan Mayen, og er avgrenset av avtalte avgrensningslinjer der det er mindre enn 400 nm til annen stats grunnlinje"
     },
@@ -507,6 +570,7 @@
       "tittel": {
         "nb": "Jan Mayen"
       },
+      "nivå": "fiskerisone",
       "ingress": "Sone som dekker havområdet fra territorialgrensen 12 nm og ut til 200 nm beregnet utenfor og parallelt med grunnlinjen ved Jan Mayen, og er avgrenset av avtalte avgrensningslinjer der det er mindre enn 400 nm til annen stats grunnlinje"
     },
     {
@@ -514,6 +578,7 @@
       "tittel": {
         "nb": "Jan Mayen"
       },
+      "nivå": "territorialområde",
       "ingress": "Norges territorialområde ved Jan Mayen"
     },
     {
@@ -521,6 +586,7 @@
       "tittel": {
         "nb": "Fastlands-Norge"
       },
+      "nivå": "territorialområde",
       "ingress": "Territorialområde ved Fastlands-Norge"
     },
     {
@@ -528,6 +594,7 @@
       "tittel": {
         "nb": "Svalbard"
       },
+      "nivå": "territorialområde",
       "ingress": "Norges territorialområde ved Svalbard"
     },
     {
@@ -535,6 +602,7 @@
       "tittel": {
         "nb": "Spitsbergen, Nordaustlandet og Edgeøya"
       },
+      "nivå": "territorialområde",
       "ingress": "Norges territorialområde ved Spitsbergen, Nordaustlandet og Edgeøya, Svalbard"
     },
     {
@@ -542,6 +610,7 @@
       "tittel": {
         "nb": "Kvitøya"
       },
+      "nivå": "territorialområde",
       "ingress": "Norges territorialområde ved Kvitøya, Svalbard"
     },
     {
@@ -549,6 +618,7 @@
       "tittel": {
         "nb": "Hopen"
       },
+      "nivå": "territorialområde",
       "ingress": "Norges territorialområde ved Hopen, Svalbard"
     },
     {
@@ -556,6 +626,7 @@
       "tittel": {
         "nb": "Kong Karls Land"
       },
+      "nivå": "landareal med indre farvann",
       "ingress": "Landområde ved Kong Karls Land, Svalbard"
     },
     {
@@ -563,6 +634,7 @@
       "tittel": {
         "nb": "Svalbard"
       },
+      "nivå": "landareal med indre farvann",
       "ingress": "Svalbard med indre farvann"
     },
     {
@@ -570,6 +642,7 @@
       "tittel": {
         "nb": "Kvitøya"
       },
+      "nivå": "landareal med indre farvann",
       "ingress": "Kvitøya med indre farvann"
     },
     {
@@ -577,6 +650,7 @@
       "tittel": {
         "nb": "Bjørnøya"
       },
+      "nivå": "landareal med indre farvann",
       "ingress": "Bjørnøya med indre farvann"
     },
     {
@@ -584,6 +658,7 @@
       "tittel": {
         "nb": "Bouvetøya"
       },
+      "nivå": "territorialområde",
       "ingress": "Norges territorialområde ved Bouvetøya"
     },
     {
@@ -591,6 +666,7 @@
       "tittel": {
         "nb": "Bouvetøya"
       },
+      "nivå": "landareal",
       "ingress": "Landareal ved Bouvetøya"
     },
     {
@@ -601,6 +677,7 @@
       "tittel": {
         "nb": "Bouvetøya"
       },
+      "nivå": "Sjøterritorium og territorialfarvann",
       "ingress": "Sjøterritorium og territorialfarvann ved Bouvetøya"
     },
     {
@@ -608,6 +685,7 @@
       "tittel": {
         "nb": "Spitsbergen"
       },
+      "nivå": "landareal",
       "ingress": "Landareal ved Spitsbergen, Svalbard"
     },
     {
@@ -615,6 +693,7 @@
       "tittel": {
         "nb": "Bjørnøya"
       },
+      "nivå": "landareal",
       "ingress": "Landareal ved Bjørnøya, Svalbard"
     },
     {
@@ -623,9 +702,12 @@
       "lenke": {
         "lovdata": "http://www.lovdata.no/cgi-wift/wiftldles?doc=/app/gratis/www/docroot/for/sf/ud/ud-19761217-0015.html&emne=FOR-1976-12-17-15&"
       },
-      "tittel": { "nb": "Norges økonomiske sone" },
+      "tittel": {
+        "nb": "Norges økonomiske sone",
+        "en": "Exclusive Economic Zone for Norway"
+      },
       "farge": "hsl(30,90%,89%)",
-      "ingress": "Sone som dekker havområdet fra territorialgrensen 12 nm og ut til 200 nm beregnet utenfor og parallelt med grunnlinjen ved Fastlands-Norge, og er avgrenset av avtalte avgrensningslinjer der det er mindre enn 400 nm til annen stats grunnlinje"
+      "ingress": "Sjøareal der Norge ikke har suverenitet, men derimot suverene rettigheter over naturressursene i og på havbunnen og i havområdene over. Den økonomiske sonen overlapper med kontinentalsokkelen ut til 200 nm."
     }
   ],
   "meta": {
