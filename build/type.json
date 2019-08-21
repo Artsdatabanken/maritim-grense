@@ -290,8 +290,8 @@
     {
       "kode": "AO-TO-LIF-FL",
       "tittel": {
-        "nb": "Fastlands-Norge med indre farvann",
-        "en": "Norway Mainland with Internal Waters"
+        "nb": "Fastlands-Norge",
+        "en": "Norway Mainland"
       },
       "farge": "hsl(150,20%,85%)",
       "nivå": "landområde med indre farvann",
