@@ -1,1 +1,0 @@
-ogr2ogr NorgesMaritimeGrenser.geojson NorgesMaritimeGrenser.sos
