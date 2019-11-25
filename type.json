@@ -2,139 +2,12 @@
   "items": [
     {
       "farge": "hsl(200,40%,85%)",
+      "ingress": {
+        "nb": "Norge er blant annet bygget opp av det vi kjenner som fastlandet med fylker og kommuner, som er en betydelig del av vårt territorialområde. Men Norge inneholder også flere øyer og øygrupper, og havområder som omtales som vår kontinentalsokkel."
+      },
       "kode": "AO",
       "tittel": {
         "nb": "Administrativ grense"
-      }
-    },
-    {
-      "farge": "hsl(200,80%,85%)",
-      "ingress": {
-        "nb": "En kyststats suverenitet strekker seg fra landterritoriet og de indre farvann, ut til 12 nautiske mil utenfor og parallelt med grunnlinjen. Skip fra alle stater har rett til uskyldig gjennomfart gjennom territorialfarvannet. Det etableres og nykartlegges nå leder for all skipsfart langs kysten, og disse legges lengre ut i åpent farvann enn tidligere pga. faren for ulykker og forurensning."
-      },
-      "kode": "AO-TO-ST-TF",
-      "kodeautor": "Territorialfarvann",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "territorialfarvann",
-      "tittel": {
-        "en": "Territorial Waters",
-        "nb": "Territorialfarvann"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Territorialfarvann ved Svalbard"
-      },
-      "kode": "AO-TO-ST-TF-SV",
-      "nivå": "territorialfarvann",
-      "tittel": {
-        "nb": "Svalbard"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Territorialfarvann ved Spitsbergen, Nordaustlandet og Edgeøya, Svalbard"
-      },
-      "kode": "AO-TO-ST-TF-SV-ED",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "territorialfarvann",
-      "tittel": {
-        "nb": "Spitsbergen, Nordaustlandet og Edgeøya"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Territorialfarvann ved Bjørnøya, Svalbard"
-      },
-      "kode": "AO-TO-ST-TF-SV-BJ",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "territorialfarvann",
-      "tittel": {
-        "nb": "Bjørnøya"
-      }
-    },
-    {
-      "farge": "hsl(220,80%,85%)",
-      "ingress": {
-        "nb": "Innenfor sjøterritoriet har fremmede fartøyer rett til uskyldig gjennomfart."
-      },
-      "kode": "AO-TO-ST",
-      "kodeautor": "Sjøterritorium",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "sjøterritorium",
-      "tittel": {
-        "en": "Territorial Sea",
-        "nb": "Sjøterritorium og territorialfarvann"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Sjøterritorium ved Svalbard"
-      },
-      "kode": "AO-TO-ST-SV",
-      "nivå": "sjøterritorium",
-      "tittel": {
-        "nb": "Svalbard"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Sjøterritorium ved Hopen, Svalbard"
-      },
-      "kode": "AO-TO-ST-SV-HO",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "sjøterritorium",
-      "tittel": {
-        "nb": "Hopen"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Territorialfarvann ved Kong Karls Land, Svalbard"
-      },
-      "kode": "AO-TO-ST-TF-SV-KK",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "territorialfarvann",
-      "tittel": {
-        "nb": "Kong Karls Land"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Sjøterritorium ved Kvitøya, Svalbard"
-      },
-      "kode": "AO-TO-ST-SV-KV",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "sjøterritorium",
-      "tittel": {
-        "nb": "Kvitøya"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Territorialfarvann ved Fastlands-Norge"
-      },
-      "kode": "AO-TO-ST-TF-FL",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "territorialfarvann",
-      "tittel": {
-        "nb": "Fastlands-Norge"
       }
     },
     {
@@ -149,6 +22,176 @@
       "tittel": {
         "en": "Continental Shelf",
         "nb": "Kontinentalsokkel"
+      }
+    },
+    {
+      "farge": "hsl(330,80%,85%)",
+      "ingress": {
+        "nb": "Sone som dekker havområdet fra territorialgrensen 12 nm og ut til 200 nm beregnet utenfor og parallelt med grunnlinjen ved Jan Mayen, og er avgrenset av avtalte avgrensningslinjer der det er mindre enn 400 nm til annen stats grunnlinje"
+      },
+      "kode": "AO-KS-FS",
+      "kodeautor": "Fiskerisone",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/cgi-wift/ldles?doc=/sf/sf/sf-19800523-0004.html"
+      },
+      "nivå": "fiskerisone",
+      "tittel": {
+        "en": "Fisheries zone",
+        "nb": "Fiskerisone"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Sone som dekker havområdet fra territorialgrensen 12 nm og ut til 200 nm beregnet utenfor og parallelt med grunnlinjen ved Jan Mayen, og er avgrenset av avtalte avgrensningslinjer der det er mindre enn 400 nm til annen stats grunnlinje"
+      },
+      "kode": "AO-KS-FS-JM",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/cgi-wift/ldles?doc=/sf/sf/sf-19800523-0004.html"
+      },
+      "nivå": "fiskerisone",
+      "tittel": {
+        "nb": "Jan Mayen"
+      }
+    },
+    {
+      "farge": "hsl(30,80%,85%)",
+      "ingress": {
+        "nb": "Sone opprettet for å bevare de levende ressursene i havet og for å regulere fiske og fangst. Fiskevernsonen er ikke en full økonomisk sone, men er opprettet med hjemmel i den økonomiske soneloven."
+      },
+      "kode": "AO-KS-FV",
+      "kodeautor": "Fiskevernsone",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-19761217-091.html"
+      },
+      "nivå": "fiskevernsone",
+      "tittel": {
+        "en": "Fisheries Protection Zone",
+        "nb": "Fiskevernsonen"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Fiskevernsonen ved Svalbard"
+      },
+      "kode": "AO-KS-FV-SV",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-19761217-091.html"
+      },
+      "nivå": "fiskevernsone",
+      "tittel": {
+        "nb": "Svalbard"
+      }
+    },
+    {
+      "farge": "hsl(60,80%,85%)",
+      "ingress": {
+        "nb": "Området inngår i Norges økonomiske sone. I tillegg til de lover og forskrifter som gjelder i den økonomiske sonen, har kyststaten mulighet til utvidet kontroll innenfor dette området."
+      },
+      "kode": "AO-KS-TS",
+      "kodeautor": "TilstøtendeSone",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "tilstøtende sone",
+      "tittel": {
+        "en": "Contiguous Zone",
+        "nb": "Tilstøtende sone"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Tilstøtende sone ved Fastlands-Norge"
+      },
+      "kode": "AO-KS-TS-FL",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "tilstøtende sone",
+      "tittel": {
+        "nb": "Fastlands-Norge"
+      }
+    },
+    {
+      "farge": "hsl(30,90%,89%)",
+      "ingress": {
+        "nb": "Sjøareal der Norge ikke har suverenitet, men derimot suverene rettigheter over naturressursene i og på havbunnen og i havområdene over. Den økonomiske sonen overlapper med kontinentalsokkelen ut til 200 nm."
+      },
+      "kode": "AO-KS-ØS",
+      "kodeautor": "NorgesØkonomiskeSone",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/cgi-wift/wiftldles?doc=/app/gratis/www/docroot/for/sf/ud/ud-19761217-0015.html&emne=FOR-1976-12-17-15&"
+      },
+      "tittel": {
+        "en": "Exclusive Economic Zone for Norway",
+        "nb": "Norges økonomiske sone"
+      }
+    },
+    {
+      "farge": "hsl(90,80%,85%)",
+      "kode": "AO-TO",
+      "kodeautor": "Territorialområde",
+      "tittel": {
+        "nb": "Territorialområde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Norges territorialområde ved Bouvetøya"
+      },
+      "kode": "AO-TO-BO",
+      "nivå": "territorialområde",
+      "tittel": {
+        "nb": "Bouvetøya"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Territorialområde ved Fastlands-Norge"
+      },
+      "kode": "AO-TO-FL",
+      "nivå": "territorialområde",
+      "tittel": {
+        "nb": "Fastlands-Norge"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Norges territorialområde ved Jan Mayen"
+      },
+      "kode": "AO-TO-JM",
+      "nivå": "territorialområde",
+      "tittel": {
+        "nb": "Jan Mayen"
+      }
+    },
+    {
+      "farge": "hsl(150,50%,85%)",
+      "kode": "AO-TO-LIF",
+      "kodeautor": "LandIndreFarvann",
+      "tittel": {
+        "nb": "Landareal med indre farvann"
+      }
+    },
+    {
+      "farge": "hsl(150,20%,85%)",
+      "ingress": {
+        "nb": "Landområdet som grenser til Sverige, Finland og Russland med kystnære øyer, holmer og skjær, samt havområdet ut til grunnlinjen"
+      },
+      "kode": "AO-TO-LIF-FL",
+      "nivå": "landområde med indre farvann",
+      "tittel": {
+        "en": "Norway Mainland",
+        "nb": "Fastlands-Norge"
+      }
+    },
+    {
+      "farge": "hsl(0,80%,85%)",
+      "kode": "AO-TO-LIF-IF",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "tittel": {
+        "nb": "Indre farvann"
       }
     },
     {
@@ -178,11 +221,143 @@
       }
     },
     {
+      "ingress": {
+        "nb": "Indre farvann ved Svalbard"
+      },
+      "kode": "AO-TO-LIF-IF-SV",
+      "nivå": "indre farvann",
+      "tittel": {
+        "nb": "Svalbard"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Indre farvann ved Svalbard"
+      },
+      "kode": "AO-TO-LIF-IF-SV",
+      "nivå": "indre farvann",
+      "tittel": {
+        "nb": "Svalbard"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Indre farvann ved Bjørnøya, Svalbard"
+      },
+      "kode": "AO-TO-LIF-IF-SV-BJ",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "indre farvann",
+      "tittel": {
+        "nb": "Bjørnøya"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Indre farvann ved Spitsbergen, Nordaustlandet og Edgeøya, Svalbard"
+      },
+      "kode": "AO-TO-LIF-IF-SV-ED",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "indre farvann",
+      "tittel": {
+        "nb": "Spitsbergen, Nordaustlandet og Edgeøya"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Indre farvann ved Hopen, Svalbard"
+      },
+      "kode": "AO-TO-LIF-IF-SV-HO",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "indre farvann",
+      "tittel": {
+        "nb": "Hopen"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Indre farvann ved Kong Karls Land, Svalbard"
+      },
+      "kode": "AO-TO-LIF-IF-SV-KK",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "indre farvann",
+      "tittel": {
+        "nb": "Kong Karls Land"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Indre farvann ved Kvitøya, Svalbard"
+      },
+      "kode": "AO-TO-LIF-IF-SV-KV",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "indre farvann",
+      "tittel": {
+        "nb": "Kvitøya"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Jan Mayen med indre farvann"
+      },
+      "kode": "AO-TO-LIF-JM",
+      "nivå": "landområde med indre farvann",
+      "tittel": {
+        "nb": "Jan Mayen"
+      }
+    },
+    {
       "farge": "hsl(180,80%,85%)",
       "kode": "AO-TO-LIF-LA",
       "kodeautor": "Landareal",
       "tittel": {
         "nb": "Landareal"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Landareal ved Bouvetøya"
+      },
+      "kode": "AO-TO-LIF-LA-BO",
+      "nivå": "landareal",
+      "tittel": {
+        "nb": "Bouvetøya"
+      }
+    },
+    {
+      "kode": "AO-TO-LIF-LA-JM",
+      "nivå": "landområde",
+      "tittel": {
+        "nb": "Øy ved Jan Mayen"
+      }
+    },
+    {
+      "farge": "hsl(120,80%,85%)",
+      "ingress": {
+        "nb": "Landområdet som grenser til Sverige, Finland og Russland samt kystnære øyer, holmer og skjær"
+      },
+      "kode": "AO-TO-LIF-LA-LO",
+      "tittel": {
+        "nb": "Norsk økonomisk sone"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Landområde ved Svalbard"
+      },
+      "kode": "AO-TO-LIF-LA-SV",
+      "nivå": "landområde",
+      "tittel": {
+        "nb": "Svalbard"
       }
     },
     {
@@ -192,11 +367,83 @@
       }
     },
     {
-      "farge": "hsl(150,50%,85%)",
-      "kode": "AO-TO-LIF",
-      "kodeautor": "LandIndreFarvann",
+      "ingress": {
+        "nb": "Landområde ved Barentsøya, Svalbard"
+      },
+      "kode": "AO-TO-LIF-LA-SV-BA",
+      "nivå": "landområde",
       "tittel": {
-        "nb": "Landareal med indre farvann"
+        "nb": "Barentsøya"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Landareal ved Bjørnøya, Svalbard"
+      },
+      "kode": "AO-TO-LIF-LA-SV-BJ",
+      "nivå": "landareal",
+      "tittel": {
+        "nb": "Bjørnøya"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Landområde ved Edgeøya, Svalbard"
+      },
+      "kode": "AO-TO-LIF-LA-SV-ED",
+      "nivå": "landområde",
+      "tittel": {
+        "nb": "Edgeøya"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Landområde ved Hopen, Svalbard"
+      },
+      "kode": "AO-TO-LIF-LA-SV-HO",
+      "nivå": "landområde",
+      "tittel": {
+        "nb": "Hopen, Svalbard"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Landområde ved Kong Karls Land, Svalbard"
+      },
+      "kode": "AO-TO-LIF-LA-SV-KK",
+      "nivå": "landareal med indre farvann",
+      "tittel": {
+        "nb": "Kong Karls Land"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Landområde ved Kvitøya, Svalbard"
+      },
+      "kode": "AO-TO-LIF-LA-SV-KV",
+      "nivå": "landområde",
+      "tittel": {
+        "nb": "Kvitøya"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Nordaustlandet, Svalbard"
+      },
+      "kode": "AO-TO-LIF-LA-SV-NA",
+      "nivå": "landareal med indre farvann",
+      "tittel": {
+        "nb": "Nordaustlandet"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Landareal ved Spitsbergen, Svalbard"
+      },
+      "kode": "AO-TO-LIF-LA-SV-SN",
+      "nivå": "landareal",
+      "tittel": {
+        "nb": "Spitsbergen"
       }
     },
     {
@@ -207,6 +454,26 @@
       "nivå": "landareal med indre farvann",
       "tittel": {
         "nb": "Svalbard"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Svalbard med indre farvann"
+      },
+      "kode": "AO-TO-LIF-SV",
+      "nivå": "landareal med indre farvann",
+      "tittel": {
+        "nb": "Svalbard"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Bjørnøya med indre farvann"
+      },
+      "kode": "AO-TO-LIF-SV-BJ",
+      "nivå": "landareal med indre farvann",
+      "tittel": {
+        "nb": "Bjørnøya"
       }
     },
     {
@@ -241,168 +508,41 @@
     },
     {
       "ingress": {
-        "nb": "Nordaustlandet, Svalbard"
+        "nb": "Kvitøya med indre farvann"
       },
-      "kode": "AO-TO-LIF-LA-SV-NA",
+      "kode": "AO-TO-LIF-SV-KV",
       "nivå": "landareal med indre farvann",
       "tittel": {
-        "nb": "Nordaustlandet"
-      }
-    },
-    {
-      "farge": "hsl(120,80%,85%)",
-      "ingress": {
-        "nb": "Landområdet som grenser til Sverige, Finland og Russland samt kystnære øyer, holmer og skjær"
-      },
-      "kode": "AO-TO-LIF-LA-LO",
-      "tittel": {
-        "nb": "Norsk økonomisk sone"
-      }
-    },
-    {
-      "farge": "hsl(90,80%,85%)",
-      "kode": "AO-TO",
-      "kodeautor": "Territorialområde",
-      "tittel": {
-        "nb": "Territorialområde"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Norges territorialområde ved Bjørnøya, Svalbard"
-      },
-      "kode": "AO-TO-SV-BJ",
-      "nivå": "territorialområde",
-      "tittel": {
-        "nb": "Bjørnøya"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Landområde ved Svalbard"
-      },
-      "kode": "AO-TO-LIF-LA-SV",
-      "nivå": "landområde",
-      "tittel": {
-        "nb": "Svalbard"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Landområde ved Hopen, Svalbard"
-      },
-      "kode": "AO-TO-LIF-LA-SV-HO",
-      "nivå": "landområde",
-      "tittel": {
-        "nb": "Hopen, Svalbard"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Norges territorialområde ved Kong Karls Land, Svalbard"
-      },
-      "kode": "AO-TO-SV-KK",
-      "nivå": "landområde",
-      "tittel": {
-        "nb": "Kong Karls Land"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Landområde ved Kvitøya, Svalbard"
-      },
-      "kode": "AO-TO-LIF-LA-SV-KV",
-      "nivå": "landområde",
-      "tittel": {
         "nb": "Kvitøya"
       }
     },
     {
+      "farge": "hsl(220,80%,85%)",
       "ingress": {
-        "nb": "Landområde ved Edgeøya, Svalbard"
+        "nb": "Innenfor sjøterritoriet har fremmede fartøyer rett til uskyldig gjennomfart."
       },
-      "kode": "AO-TO-LIF-LA-SV-ED",
-      "nivå": "landområde",
-      "tittel": {
-        "nb": "Edgeøya"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Landområde ved Barentsøya, Svalbard"
-      },
-      "kode": "AO-TO-LIF-LA-SV-BA",
-      "nivå": "landområde",
-      "tittel": {
-        "nb": "Barentsøya"
-      }
-    },
-    {
-      "farge": "hsl(150,20%,85%)",
-      "ingress": {
-        "nb": "Landområdet som grenser til Sverige, Finland og Russland med kystnære øyer, holmer og skjær, samt havområdet ut til grunnlinjen"
-      },
-      "kode": "AO-TO-LIF-FL",
-      "nivå": "landområde med indre farvann",
-      "tittel": {
-        "en": "Norway Mainland",
-        "nb": "Fastlands-Norge"
-      }
-    },
-    {
-      "kode": "AO-TO-LIF-LA-JM",
-      "nivå": "landområde",
-      "tittel": {
-        "nb": "Øy ved Jan Mayen"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Indre farvann ved Svalbard"
-      },
-      "kode": "AO-TO-LIF-IF-SV",
-      "nivå": "indre farvann",
-      "tittel": {
-        "nb": "Svalbard"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Indre farvann ved Kvitøya, Svalbard"
-      },
-      "kode": "AO-TO-LIF-IF-SV-KV",
+      "kode": "AO-TO-ST",
+      "kodeautor": "Sjøterritorium",
       "lenke": {
         "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
       },
-      "nivå": "indre farvann",
+      "nivå": "sjøterritorium",
       "tittel": {
-        "nb": "Kvitøya"
+        "en": "Territorial Sea",
+        "nb": "Sjøterritorium og territorialfarvann"
       }
     },
     {
       "ingress": {
-        "nb": "Indre farvann ved Hopen, Svalbard"
+        "nb": "Sjøterritorium og territorialfarvann ved Bouvetøya"
       },
-      "kode": "AO-TO-LIF-IF-SV-HO",
+      "kode": "AO-TO-ST-BO",
       "lenke": {
         "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
       },
-      "nivå": "indre farvann",
+      "nivå": "Sjøterritorium og territorialfarvann",
       "tittel": {
-        "nb": "Hopen"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Indre farvann ved Spitsbergen, Nordaustlandet og Edgeøya, Svalbard"
-      },
-      "kode": "AO-TO-LIF-IF-SV-ED",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "indre farvann",
-      "tittel": {
-        "nb": "Spitsbergen, Nordaustlandet og Edgeøya"
+        "nb": "Bouvetøya"
       }
     },
     {
@@ -420,6 +560,19 @@
     },
     {
       "ingress": {
+        "nb": "Sjøterritorium ved Jan Mayen"
+      },
+      "kode": "AO-TO-ST-JM",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "sjøterritorium",
+      "tittel": {
+        "nb": "Jan Mayen"
+      }
+    },
+    {
+      "ingress": {
         "nb": "Sjøterritorium ved Svalbard"
       },
       "kode": "AO-TO-ST-SV",
@@ -430,132 +583,12 @@
     },
     {
       "ingress": {
-        "nb": "Sjøterritorium ved Kong Karls Land, Svalbard"
+        "nb": "Sjøterritorium ved Svalbard"
       },
-      "kode": "AO-TO-ST-SV-KK",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
+      "kode": "AO-TO-ST-SV",
       "nivå": "sjøterritorium",
       "tittel": {
-        "nb": "Kong Karls Land"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Territorialfarvann ved Jan Mayen"
-      },
-      "kode": "AO-TO-ST-TF-JM",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "territorialfarvann",
-      "tittel": {
-        "nb": "Jan Mayen"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Territorialfarvann ved Svalbard"
-      },
-      "kode": "AO-TO-ST-TF-SV",
-      "nivå": "territorialfarvann",
-      "tittel": {
         "nb": "Svalbard"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Territorialfarvann ved Hopen, Svalbard"
-      },
-      "kode": "AO-TO-ST-TF-SV-HO",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "territorialfarvann",
-      "tittel": {
-        "nb": "Hopen"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Jan Mayen med indre farvann"
-      },
-      "kode": "AO-TO-LIF-JM",
-      "nivå": "landområde med indre farvann",
-      "tittel": {
-        "nb": "Jan Mayen"
-      }
-    },
-    {
-      "farge": "hsl(60,80%,85%)",
-      "ingress": {
-        "nb": "Området inngår i Norges økonomiske sone. I tillegg til de lover og forskrifter som gjelder i den økonomiske sonen, har kyststaten mulighet til utvidet kontroll innenfor dette området."
-      },
-      "kode": "AO-KS-TS",
-      "kodeautor": "TilstøtendeSone",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "tilstøtende sone",
-      "tittel": {
-        "en": "Contiguous Zone",
-        "nb": "Tilstøtende sone"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Tilstøtende sone ved Fastlands-Norge"
-      },
-      "kode": "AO-KS-TS-FL",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "tilstøtende sone",
-      "tittel": {
-        "nb": "Fastlands-Norge"
-      }
-    },
-    {
-      "farge": "hsl(30,80%,85%)",
-      "ingress": {
-        "nb": "Sone opprettet for å bevare de levende ressursene i havet og for å regulere fiske og fangst. Fiskevernsonen er ikke en full økonomisk sone, men er opprettet med hjemmel i den økonomiske soneloven."
-      },
-      "kode": "AO-KS-FV",
-      "kodeautor": "Fiskevernsone",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-19761217-091.html"
-      },
-      "nivå": "fiskevernsone",
-      "tittel": {
-        "en": "Fisheries Protection Zone",
-        "nb": "Fiskevernsonen"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Fiskevernsonen ved Svalbard"
-      },
-      "kode": "AO-KS-FV-SV",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-19761217-091.html"
-      },
-      "nivå": "fiskevernsone",
-      "tittel": {
-        "nb": "Svalbard"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Territorialfarvann ved Kvitøya, Svalbard"
-      },
-      "kode": "AO-TO-ST-TF-SV-KV",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "sjøterritorium",
-      "tittel": {
-        "nb": "Kvitøya"
       }
     },
     {
@@ -586,110 +619,168 @@
     },
     {
       "ingress": {
-        "nb": "Sjøterritorium ved Jan Mayen"
+        "nb": "Sjøterritorium ved Hopen, Svalbard"
       },
-      "kode": "AO-TO-ST-JM",
+      "kode": "AO-TO-ST-SV-HO",
       "lenke": {
         "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
       },
       "nivå": "sjøterritorium",
+      "tittel": {
+        "nb": "Hopen"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Sjøterritorium ved Kong Karls Land, Svalbard"
+      },
+      "kode": "AO-TO-ST-SV-KK",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "sjøterritorium",
+      "tittel": {
+        "nb": "Kong Karls Land"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Sjøterritorium ved Kvitøya, Svalbard"
+      },
+      "kode": "AO-TO-ST-SV-KV",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "sjøterritorium",
+      "tittel": {
+        "nb": "Kvitøya"
+      }
+    },
+    {
+      "farge": "hsl(200,80%,85%)",
+      "ingress": {
+        "nb": "En kyststats suverenitet strekker seg fra landterritoriet og de indre farvann, ut til 12 nautiske mil utenfor og parallelt med grunnlinjen. Skip fra alle stater har rett til uskyldig gjennomfart gjennom territorialfarvannet. Det etableres og nykartlegges nå leder for all skipsfart langs kysten, og disse legges lengre ut i åpent farvann enn tidligere pga. faren for ulykker og forurensning."
+      },
+      "kode": "AO-TO-ST-TF",
+      "kodeautor": "Territorialfarvann",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "territorialfarvann",
+      "tittel": {
+        "en": "Territorial Waters",
+        "nb": "Territorialfarvann"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Territorialfarvann ved Fastlands-Norge"
+      },
+      "kode": "AO-TO-ST-TF-FL",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "territorialfarvann",
+      "tittel": {
+        "nb": "Fastlands-Norge"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Territorialfarvann ved Jan Mayen"
+      },
+      "kode": "AO-TO-ST-TF-JM",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "territorialfarvann",
       "tittel": {
         "nb": "Jan Mayen"
       }
     },
     {
       "ingress": {
-        "nb": "Indre farvann ved Svalbard"
+        "nb": "Territorialfarvann ved Svalbard"
       },
-      "kode": "AO-TO-LIF-IF-SV",
-      "nivå": "indre farvann",
+      "kode": "AO-TO-ST-TF-SV",
+      "nivå": "territorialfarvann",
       "tittel": {
         "nb": "Svalbard"
       }
     },
     {
       "ingress": {
-        "nb": "Indre farvann ved Bjørnøya, Svalbard"
+        "nb": "Territorialfarvann ved Svalbard"
       },
-      "kode": "AO-TO-LIF-IF-SV-BJ",
+      "kode": "AO-TO-ST-TF-SV",
+      "nivå": "territorialfarvann",
+      "tittel": {
+        "nb": "Svalbard"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Territorialfarvann ved Bjørnøya, Svalbard"
+      },
+      "kode": "AO-TO-ST-TF-SV-BJ",
       "lenke": {
         "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
       },
-      "nivå": "indre farvann",
+      "nivå": "territorialfarvann",
       "tittel": {
         "nb": "Bjørnøya"
       }
     },
     {
       "ingress": {
-        "nb": "Indre farvann ved Kong Karls Land, Svalbard"
+        "nb": "Territorialfarvann ved Spitsbergen, Nordaustlandet og Edgeøya, Svalbard"
       },
-      "kode": "AO-TO-LIF-IF-SV-KK",
+      "kode": "AO-TO-ST-TF-SV-ED",
       "lenke": {
         "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
       },
-      "nivå": "indre farvann",
+      "nivå": "territorialfarvann",
+      "tittel": {
+        "nb": "Spitsbergen, Nordaustlandet og Edgeøya"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Territorialfarvann ved Hopen, Svalbard"
+      },
+      "kode": "AO-TO-ST-TF-SV-HO",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "territorialfarvann",
+      "tittel": {
+        "nb": "Hopen"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Territorialfarvann ved Kong Karls Land, Svalbard"
+      },
+      "kode": "AO-TO-ST-TF-SV-KK",
+      "lenke": {
+        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
+      },
+      "nivå": "territorialfarvann",
       "tittel": {
         "nb": "Kong Karls Land"
       }
     },
     {
-      "farge": "hsl(0,80%,85%)",
-      "kode": "AO-TO-LIF-IF",
+      "ingress": {
+        "nb": "Territorialfarvann ved Kvitøya, Svalbard"
+      },
+      "kode": "AO-TO-ST-TF-SV-KV",
       "lenke": {
         "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
       },
+      "nivå": "sjøterritorium",
       "tittel": {
-        "nb": "Indre farvann"
-      }
-    },
-    {
-      "farge": "hsl(330,80%,85%)",
-      "ingress": {
-        "nb": "Sone som dekker havområdet fra territorialgrensen 12 nm og ut til 200 nm beregnet utenfor og parallelt med grunnlinjen ved Jan Mayen, og er avgrenset av avtalte avgrensningslinjer der det er mindre enn 400 nm til annen stats grunnlinje"
-      },
-      "kode": "AO-KS-FS",
-      "kodeautor": "Fiskerisone",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/cgi-wift/ldles?doc=/sf/sf/sf-19800523-0004.html"
-      },
-      "nivå": "fiskerisone",
-      "tittel": {
-        "en": "Fisheries zone",
-        "nb": "Fiskerisone"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Sone som dekker havområdet fra territorialgrensen 12 nm og ut til 200 nm beregnet utenfor og parallelt med grunnlinjen ved Jan Mayen, og er avgrenset av avtalte avgrensningslinjer der det er mindre enn 400 nm til annen stats grunnlinje"
-      },
-      "kode": "AO-KS-FS-JM",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/cgi-wift/ldles?doc=/sf/sf/sf-19800523-0004.html"
-      },
-      "nivå": "fiskerisone",
-      "tittel": {
-        "nb": "Jan Mayen"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Norges territorialområde ved Jan Mayen"
-      },
-      "kode": "AO-TO-JM",
-      "nivå": "territorialområde",
-      "tittel": {
-        "nb": "Jan Mayen"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Territorialområde ved Fastlands-Norge"
-      },
-      "kode": "AO-TO-FL",
-      "nivå": "territorialområde",
-      "tittel": {
-        "nb": "Fastlands-Norge"
+        "nb": "Kvitøya"
       }
     },
     {
@@ -704,22 +795,22 @@
     },
     {
       "ingress": {
+        "nb": "Norges territorialområde ved Bjørnøya, Svalbard"
+      },
+      "kode": "AO-TO-SV-BJ",
+      "nivå": "territorialområde",
+      "tittel": {
+        "nb": "Bjørnøya"
+      }
+    },
+    {
+      "ingress": {
         "nb": "Norges territorialområde ved Spitsbergen, Nordaustlandet og Edgeøya, Svalbard"
       },
       "kode": "AO-TO-SV-ED",
       "nivå": "territorialområde",
       "tittel": {
         "nb": "Spitsbergen, Nordaustlandet og Edgeøya"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Norges territorialområde ved Kvitøya, Svalbard"
-      },
-      "kode": "AO-TO-SV-KV",
-      "nivå": "territorialområde",
-      "tittel": {
-        "nb": "Kvitøya"
       }
     },
     {
@@ -734,121 +825,33 @@
     },
     {
       "ingress": {
-        "nb": "Landområde ved Kong Karls Land, Svalbard"
+        "nb": "Norges territorialområde ved Kong Karls Land, Svalbard"
       },
-      "kode": "AO-TO-LIF-LA-SV-KK",
-      "nivå": "landareal med indre farvann",
+      "kode": "AO-TO-SV-KK",
+      "nivå": "landområde",
       "tittel": {
         "nb": "Kong Karls Land"
       }
     },
     {
       "ingress": {
-        "nb": "Svalbard med indre farvann"
+        "nb": "Norges territorialområde ved Kvitøya, Svalbard"
       },
-      "kode": "AO-TO-LIF-SV",
-      "nivå": "landareal med indre farvann",
-      "tittel": {
-        "nb": "Svalbard"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Kvitøya med indre farvann"
-      },
-      "kode": "AO-TO-LIF-SV-KV",
-      "nivå": "landareal med indre farvann",
-      "tittel": {
-        "nb": "Kvitøya"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Bjørnøya med indre farvann"
-      },
-      "kode": "AO-TO-LIF-SV-BJ",
-      "nivå": "landareal med indre farvann",
-      "tittel": {
-        "nb": "Bjørnøya"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Norges territorialområde ved Bouvetøya"
-      },
-      "kode": "AO-TO-BO",
+      "kode": "AO-TO-SV-KV",
       "nivå": "territorialområde",
       "tittel": {
-        "nb": "Bouvetøya"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Landareal ved Bouvetøya"
-      },
-      "kode": "AO-TO-LIF-LA-BO",
-      "nivå": "landareal",
-      "tittel": {
-        "nb": "Bouvetøya"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Sjøterritorium og territorialfarvann ved Bouvetøya"
-      },
-      "kode": "AO-TO-ST-BO",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/all/hl-20030627-057.html"
-      },
-      "nivå": "Sjøterritorium og territorialfarvann",
-      "tittel": {
-        "nb": "Bouvetøya"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Landareal ved Spitsbergen, Svalbard"
-      },
-      "kode": "AO-TO-LIF-LA-SV-SN",
-      "nivå": "landareal",
-      "tittel": {
-        "nb": "Spitsbergen"
-      }
-    },
-    {
-      "ingress": {
-        "nb": "Landareal ved Bjørnøya, Svalbard"
-      },
-      "kode": "AO-TO-LIF-LA-SV-BJ",
-      "nivå": "landareal",
-      "tittel": {
-        "nb": "Bjørnøya"
-      }
-    },
-    {
-      "farge": "hsl(30,90%,89%)",
-      "ingress": {
-        "nb": "Sjøareal der Norge ikke har suverenitet, men derimot suverene rettigheter over naturressursene i og på havbunnen og i havområdene over. Den økonomiske sonen overlapper med kontinentalsokkelen ut til 200 nm."
-      },
-      "kode": "AO-KS-ØS",
-      "kodeautor": "NorgesØkonomiskeSone",
-      "lenke": {
-        "lovdata": "http://www.lovdata.no/cgi-wift/wiftldles?doc=/app/gratis/www/docroot/for/sf/ud/ud-19761217-0015.html&emne=FOR-1976-12-17-15&"
-      },
-      "tittel": {
-        "en": "Exclusive Economic Zone for Norway",
-        "nb": "Norges økonomiske sone"
+        "nb": "Kvitøya"
       }
     }
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-09-18T07:10:35.379Z",
+    "produsertUtc": "2019-11-25T21:02:24.463Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/maritime-grenser/master/type.json",
     "tool": {
       "name": "maritim-grense"
     },
-    "elementer": 1
+    "elementer": 74
   }
 }

@@ -1,0 +1,103 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "farge": {
+            "type": "string"
+          },
+          "ingress": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              }
+            }
+          },
+          "kode": {
+            "type": "string"
+          },
+          "tittel": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              },
+              "en": {
+                "type": "string"
+              }
+            }
+          },
+          "lenke": {
+            "type": "object",
+            "properties": {
+              "lovdata": {
+                "type": "string"
+              }
+            }
+          },
+          "kodeautor": {
+            "type": "string"
+          },
+          "nivå": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "farge",
+          "ingress",
+          "kode",
+          "tittel",
+          "lenke",
+          "nivå",
+          "kodeautor"
+        ]
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "tittel": {
+          "type": "string"
+        },
+        "produsertUtc": {
+          "type": "string"
+        },
+        "utgiver": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "tool": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "url": {
+              "type": "null"
+            }
+          }
+        },
+        "elementer": {
+          "type": "number"
+        }
+      }
+    }
+  },
+  "meta": {
+    "tittel": "Type.schema",
+    "produsertUtc": "2019-11-25T21:02:24.467Z",
+    "utgiver": "Artsdatabanken",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/maritime-grenser/master/type.schema.json",
+    "tool": {
+      "name": "maritim-grense"
+    },
+    "elementer": 3
+  }
+}
