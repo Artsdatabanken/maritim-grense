@@ -1,106 +1,159 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "type": "object",
-  "properties": {
-    "items": {
-      "type": "array",
+  "items": {
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+      "$schema": {
+        "type": "string"
+      },
       "items": {
-        "type": "object",
-        "properties": {
-          "farge": {
-            "type": "string"
-          },
-          "ingress": {
-            "type": "object",
-            "properties": {
-              "nb": {
-                "type": "string"
-              }
-            }
-          },
-          "kode": {
-            "type": "string"
-          },
-          "tittel": {
-            "type": "object",
-            "properties": {
-              "nb": {
-                "type": "string"
-              },
-              "en": {
-                "type": "string"
-              }
-            }
-          },
-          "lenke": {
-            "type": "object",
-            "properties": {
-              "lovdata": {
-                "type": "string"
-              }
-            }
-          },
-          "kodeautor": {
-            "type": "string"
-          },
-          "nivå": {
-            "type": "string"
-          }
-        },
-        "required": [
-          "farge",
-          "ingress",
-          "kode",
-          "tittel",
-          "lenke",
-          "nivå",
-          "kodeautor"
-        ]
-      }
-    },
-    "meta": {
-      "type": "object",
-      "properties": {
-        "tittel": {
-          "type": "string"
-        },
-        "produsertUtc": {
-          "type": "string"
-        },
-        "utgiver": {
-          "type": "string"
-        },
-        "url": {
-          "type": "string"
-        },
-        "tool": {
-          "type": "object",
+        "items": {
           "properties": {
-            "name": {
+            "farge": {
               "type": "string"
             },
-            "url": {
-              "type": "null"
+            "ingress": {
+              "properties": {
+                "nb": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            },
+            "kode": {
+              "type": "string"
+            },
+            "kodeautor": {
+              "type": "string"
+            },
+            "lenke": {
+              "properties": {
+                "lovdata": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            },
+            "nivå": {
+              "type": "string"
+            },
+            "tittel": {
+              "properties": {
+                "en": {
+                  "type": "string"
+                },
+                "nb": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
             }
+          },
+          "required": [
+            "farge",
+            "ingress",
+            "kode",
+            "tittel",
+            "lenke",
+            "nivå",
+            "kodeautor"
+          ],
+          "type": "object"
+        },
+        "type": "array"
+      },
+      "meta": {
+        "properties": {
+          "elementer": {
+            "type": "number"
+          },
+          "produsertUtc": {
+            "type": "string"
+          },
+          "source": {
+            "items": {
+              "properties": {
+                "elementer": {
+                  "type": "number"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "produsertUtc": {
+                  "type": "string"
+                },
+                "tittel": {
+                  "type": "string"
+                },
+                "tool": {
+                  "properties": {
+                    "name": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                },
+                "url": {
+                  "type": "null"
+                },
+                "utgiver": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            },
+            "type": "array"
+          },
+          "tittel": {
+            "type": "string"
+          },
+          "tool": {
+            "properties": {
+              "commit": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "url": {
+                "type": "null"
+              }
+            },
+            "type": "object"
+          },
+          "url": {
+            "type": "string"
+          },
+          "utgiver": {
+            "type": "string"
           }
         },
-        "elementer": {
-          "type": "number"
-        }
+        "type": "object"
       }
     },
-    "$schema": {
-      "type": "string"
-    }
+    "type": "object"
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2020-10-04T19:20:07.963Z",
+    "produsertUtc": "2020-10-04T19:23:21.352Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/maritim-grense/master/type.schema.json",
     "tool": {
-      "name": "maritim-grense"
+      "name": "maritim-grense",
+      "commit": "https://github.com/Artsdatabanken/maritim-grense-lastejobb/master/3c620fe1daa4abf937d23ac9c5435d31dd8a058a"
     },
-    "elementer": 3
+    "elementer": 3,
+    "source": [
+      {
+        "name": "maritim-grense-ubehandlet/type",
+        "tittel": "Type",
+        "produsertUtc": "2019-08-17T22:17:34.534Z",
+        "utgiver": "Artsdatabanken",
+        "url": null,
+        "tool": {
+          "name": "maritim-grense"
+        },
+        "elementer": 65
+      }
+    ]
   }
 }

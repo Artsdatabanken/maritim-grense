@@ -846,13 +846,27 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2020-10-04T19:20:07.960Z",
+    "produsertUtc": "2020-10-04T19:23:21.349Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/maritim-grense/master/type.json",
     "tool": {
-      "name": "maritim-grense"
+      "name": "maritim-grense",
+      "commit": "https://github.com/Artsdatabanken/maritim-grense-lastejobb/master/3c620fe1daa4abf937d23ac9c5435d31dd8a058a"
     },
-    "elementer": 74
+    "elementer": 74,
+    "source": [
+      {
+        "name": "maritim-grense-ubehandlet/type",
+        "tittel": "Type",
+        "produsertUtc": "2019-08-17T22:17:34.534Z",
+        "utgiver": "Artsdatabanken",
+        "url": null,
+        "tool": {
+          "name": "maritim-grense"
+        },
+        "elementer": 65
+      }
+    ]
   },
   "$schema": "https://raw.githubusercontent.com/Artsdatabanken/maritim-grense/master/type.schema.json#"
 }
