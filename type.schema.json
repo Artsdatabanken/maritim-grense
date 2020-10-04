@@ -88,13 +88,16 @@
           "type": "number"
         }
       }
+    },
+    "$schema": {
+      "type": "string"
     }
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-11-25T21:02:24.467Z",
+    "produsertUtc": "2020-10-04T19:20:07.963Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/maritime-grenser/master/type.schema.json",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/maritim-grense/master/type.schema.json",
     "tool": {
       "name": "maritim-grense"
     },
